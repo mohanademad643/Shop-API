@@ -8,9 +8,7 @@
       "title": "Luxurious Modern Sofa Table",
       "image": "assets/products/p-1.jpg",
       "roles": "Designer",
-      "quantityAvailable": 6,
-      "IsDeletedItem": "false",
-      "quantity": 6
+      "quantityAvailable": 35
     },
     {
       "id": "2",
@@ -20,9 +18,7 @@
       "title": "Stylish Wooden Dining Table",
       "image": "assets/products/p-2.jpg",
       "roles": "Designer",
-      "quantityAvailable": 13,
-      "IsDeletedItem": "false",
-      "quantity": 2
+      "quantityAvailable": 10
     },
     {
       "id": "3",
@@ -32,7 +28,7 @@
       "title": "Classic Carpenter Vintage Armchair",
       "image": "assets/products/p-3.jpg",
       "roles": "Designer",
-      "quantityAvailable": 2
+      "quantityAvailable": 60
     },
     {
       "id": "4",
@@ -42,9 +38,7 @@
       "title": "Elegant Carpenter Coffee Table",
       "image": "assets/products/p-4.jpg",
       "roles": "Carpenter",
-      "quantityAvailable": 5,
-      "IsDeletedItem": "false",
-      "quantity": 3
+      "quantityAvailable": 98
     },
     {
       "id": "5",
@@ -54,9 +48,7 @@
       "title": "Contemporary Design Coffee Table",
       "image": "assets/products/p-5.jpg",
       "roles": "Carpenter",
-      "quantityAvailable": 7,
-      "IsDeletedItem": "false",
-      "quantity": 5
+      "quantityAvailable": 67
     },
     {
       "id": "6",
@@ -66,7 +58,7 @@
       "title": "Rustic Handcrafted Coffee Table",
       "image": "assets/products/p-6.jpg",
       "roles": "Carpenter",
-      "quantityAvailable": 4
+      "quantityAvailable": 63
     },
     {
       "id": "7",
@@ -76,7 +68,7 @@
       "title": "Modern Living Room Coffee Table",
       "image": "assets/products/p-7.jpg",
       "roles": "Manufacturer",
-      "quantityAvailable": 11
+      "quantityAvailable": 55
     },
     {
       "id": "8",
@@ -86,7 +78,7 @@
       "title": "Versatile Wooden Coffee Table",
       "image": "assets/products/p-8.jpg",
       "roles": "Manufacturer",
-      "quantityAvailable": 30
+      "quantityAvailable": 86
     },
     {
       "id": "9",
@@ -96,10 +88,7 @@
       "title": "Charming Wooden Coffee Table",
       "image": "assets/products/p-9.jpg",
       "roles": "Model",
-      "quantityAvailable": 22,
-      "IsDeletedItem": "false",
-      "quantity": 27,
-      "userId": "1726466779769"
+      "quantityAvailable": 92
     },
     {
       "id": "10",
@@ -109,9 +98,7 @@
       "title": "Elegant Wooden Coffee Table",
       "image": "assets/products/p-10.jpg",
       "roles": "Model",
-      "quantityAvailable": 10,
-      "IsDeletedItem": "false",
-      "quantity": 11
+      "quantityAvailable": 60
     },
     {
       "id": "12",
@@ -121,9 +108,7 @@
       "title": "Chic Wooden Coffee Table",
       "image": "assets/products/p-12.jpg",
       "roles": "Best",
-      "quantityAvailable": 20,
-      "IsDeletedItem": "false",
-      "quantity": 20
+      "quantityAvailable": 74
     },
     {
       "id": "13",
@@ -133,9 +118,7 @@
       "title": "Stylish Wooden Coffee Table",
       "image": "assets/products/p-13.jpg",
       "roles": "Best",
-      "quantityAvailable": 3,
-      "IsDeletedItem": "false",
-      "quantity": 1
+      "quantityAvailable": 57
     },
     {
       "id": "14",
@@ -145,10 +128,7 @@
       "title": "Artistic Wooden Coffee Table",
       "image": "assets/products/p-14.jpg",
       "roles": "Best",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 4,
-      "userId": "1726467507405"
+      "quantityAvailable": 82
     },
     {
       "id": "15",
@@ -158,9 +138,7 @@
       "title": "Spacious Wooden Coffee Table",
       "image": "assets/products/p-15.jpg",
       "roles": "New",
-      "quantityAvailable": 16,
-      "IsDeletedItem": "false",
-      "quantity": 8
+      "quantityAvailable": 81
     },
     {
       "id": "16",
@@ -170,9 +148,7 @@
       "title": "Modern Elegance Coffee Table",
       "image": "assets/products/p-16.jpg",
       "roles": "New",
-      "quantityAvailable": 16,
-      "IsDeletedItem": "false",
-      "quantity": 15
+      "quantityAvailable": 56
     },
     {
       "id": "17",
@@ -182,9 +158,7 @@
       "title": "Luxury Wooden Coffee Table",
       "image": "assets/products/p-17.jpg",
       "roles": "Manufacturer",
-      "quantityAvailable": 16,
-      "IsDeletedItem": "false",
-      "quantity": 18
+      "quantityAvailable": 87
     },
     {
       "id": "18",
@@ -194,7 +168,7 @@
       "title": "Elegant Living Room Coffee Table",
       "image": "assets/products/p-18.jpg",
       "roles": "Manufacturer",
-      "quantityAvailable": 8
+      "quantityAvailable": 70
     },
     {
       "id": "19",
@@ -217,231 +191,8 @@
       "quantityAvailable": 40
     }
   ],
-  "cartProduct": [
-    {
-      "id": "16",
-      "oldPrice": 83,
-      "newPrice": 63,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Modern Elegance Coffee Table",
-      "image": "assets/products/p-16.jpg",
-      "roles": "New",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "15",
-      "oldPrice": 72,
-      "newPrice": 26,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Spacious Wooden Coffee Table",
-      "image": "assets/products/p-15.jpg",
-      "roles": "New",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "9",
-      "oldPrice": 90,
-      "newPrice": 45,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Charming Wooden Coffee Table",
-      "image": "assets/products/p-9.jpg",
-      "roles": "Model",
-      "quantityAvailable": 21,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "14",
-      "oldPrice": 450,
-      "newPrice": 358,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Artistic Wooden Coffee Table",
-      "image": "assets/products/p-14.jpg",
-      "roles": "Best",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 4,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "15",
-      "oldPrice": 72,
-      "newPrice": 26,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Spacious Wooden Coffee Table",
-      "image": "assets/products/p-15.jpg",
-      "roles": "New",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "9",
-      "oldPrice": 90,
-      "newPrice": 45,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Charming Wooden Coffee Table",
-      "image": "assets/products/p-9.jpg",
-      "roles": "Model",
-      "quantityAvailable": 21,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "10",
-      "oldPrice": 310,
-      "newPrice": 250,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Elegant Wooden Coffee Table",
-      "image": "assets/products/p-10.jpg",
-      "roles": "Model",
-      "quantityAvailable": 9,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "12",
-      "oldPrice": 140,
-      "newPrice": 84,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Chic Wooden Coffee Table",
-      "image": "assets/products/p-12.jpg",
-      "roles": "Best",
-      "quantityAvailable": 19,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    }
-  ],
-  "FavoriteProduct": [
-    {
-      "id": "1",
-      "oldPrice": 120,
-      "newPrice": 90,
-      "description": "This elegant and comfortable modern sofa combines style and functionality, making it a perfect addition to your living room. Upholstered in high-quality fabric, it offers both durability and comfort, allowing you to relax in style. Ideal for family gatherings or cozy nights in.",
-      "title": "Luxurious Modern Sofa Table",
-      "image": "assets/products/p-1.jpg",
-      "roles": "Designer",
-      "quantityAvailable": 6,
-      "userId": "1726466779769",
-      "IsDeletedItem": "false",
-      "quantity": 1
-    },
-    {
-      "id": "15",
-      "oldPrice": 72,
-      "newPrice": 26,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Spacious Wooden Coffee Table",
-      "image": "assets/products/p-15.jpg",
-      "roles": "New",
-      "quantityAvailable": 16,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "12",
-      "oldPrice": 140,
-      "newPrice": 84,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Chic Wooden Coffee Table",
-      "image": "assets/products/p-12.jpg",
-      "roles": "Best",
-      "quantityAvailable": 19,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "15",
-      "oldPrice": 72,
-      "newPrice": 26,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Spacious Wooden Coffee Table",
-      "image": "assets/products/p-15.jpg",
-      "roles": "New",
-      "quantityAvailable": 15,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "14",
-      "oldPrice": 450,
-      "newPrice": 358,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Artistic Wooden Coffee Table",
-      "image": "assets/products/p-14.jpg",
-      "roles": "Best",
-      "quantityAvailable": 18,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "13",
-      "oldPrice": 253,
-      "newPrice": 184,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Stylish Wooden Coffee Table",
-      "image": "assets/products/p-13.jpg",
-      "roles": "Best",
-      "quantityAvailable": 2,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726467507405"
-    },
-    {
-      "id": "12",
-      "oldPrice": 140,
-      "newPrice": 84,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Chic Wooden Coffee Table",
-      "image": "assets/products/p-12.jpg",
-      "roles": "Best",
-      "quantityAvailable": 19,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "10",
-      "oldPrice": 310,
-      "newPrice": 250,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Elegant Wooden Coffee Table",
-      "image": "assets/products/p-10.jpg",
-      "roles": "Model",
-      "quantityAvailable": 9,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    },
-    {
-      "id": "9",
-      "oldPrice": 90,
-      "newPrice": 45,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor interdum nisi,a pellentesque nisi bibendum vel. Aliquam erat volutpat. Suspendisse potenti.",
-      "title": "Charming Wooden Coffee Table",
-      "image": "assets/products/p-9.jpg",
-      "roles": "Model",
-      "quantityAvailable": 21,
-      "IsDeletedItem": "false",
-      "quantity": 1,
-      "userId": "1726466779769"
-    }
-  ],
+  "cartProduct": [],
+  "FavoriteProduct": [],
   "Auth": [
     {
       "id": "0",
@@ -480,233 +231,5 @@
       "repassword": "01200342524"
     }
   ],
-  "Orders": [
-    {
-      "id": "400d",
-      "userId": "1726466779769",
-      "products": [
-        {
-          "id": "10",
-          "oldPrice": 310,
-          "newPrice": 250,
-          "description": "With a blend of elegance and functionality, this wooden coffee table is perfect for any living room. The rich wood finish and clean lines make it a stylish choice for modern interiors.",
-          "title": "Elegant Wooden Coffee Table",
-          "image": "assets/products/p-10.jpg",
-          "roles": "Model",
-          "quantityAvailable": 9,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        }
-      ],
-      "totalPrice": 250,
-      "cardInfo": {
-        "typeCardCheckout": "Card",
-        "Name": "Visa",
-        "number": 2233445566242424,
-        "expiryDate": "05/44",
-        "cvv": "334"
-      }
-    },
-    {
-      "id": "5bf3",
-      "userId": "1726466779769",
-      "products": [
-        {
-          "id": "10",
-          "oldPrice": 310,
-          "newPrice": 250,
-          "description": "With a blend of elegance and functionality, this wooden coffee table is perfect for any living room. The rich wood finish and clean lines make it a stylish choice for modern interiors.",
-          "title": "Elegant Wooden Coffee Table",
-          "image": "assets/products/p-10.jpg",
-          "roles": "Model",
-          "quantityAvailable": 9,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "9",
-          "oldPrice": 90,
-          "newPrice": 45,
-          "description": "This charming wooden coffee table features a classic design that enhances any room. Its spacious top is perfect for coffee cups, books, or decorative items, while the sturdy base ensures stability for daily use.",
-          "title": "Charming Wooden Coffee Table",
-          "image": "assets/products/p-9.jpg",
-          "roles": "Model",
-          "quantityAvailable": 24,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "12",
-          "oldPrice": 140,
-          "newPrice": 84,
-          "description": "This chic coffee table adds a touch of sophistication to your home. Its unique design and durable materials make it an excellent addition to your living space, perfect for hosting friends or enjoying a quiet evening.",
-          "title": "Chic Wooden Coffee Table",
-          "image": "assets/products/p-12.jpg",
-          "roles": "Best",
-          "quantityAvailable": 19,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        }
-      ],
-      "totalPrice": 379,
-      "cardInfo": {
-        "typeCardCheckout": "Card",
-        "Name": "paypal",
-        "number": 5566643553324522,
-        "expiryDate": "09/56",
-        "cvv": "535"
-      }
-    },
-    {
-      "id": "d160",
-      "userId": "1726466779769",
-      "products": [
-        {
-          "id": "14",
-          "oldPrice": 450,
-          "newPrice": 358,
-          "description": "This unique coffee table combines functionality with an artistic design, making it a conversation starter in your living room. Its sturdy build ensures it can withstand daily use while looking stylish.",
-          "title": "Artistic Wooden Coffee Table",
-          "image": "assets/products/p-14.jpg",
-          "roles": "Best",
-          "quantityAvailable": 18,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "13",
-          "oldPrice": 253,
-          "newPrice": 184,
-          "description": "Elevate your home decor with this stylish coffee table. Its elegant lines and durable construction ensure it is not only a beautiful piece but also built to last, making it an essential furniture item for your living room.",
-          "title": "Stylish Wooden Coffee Table",
-          "image": "assets/products/p-13.jpg",
-          "roles": "Best",
-          "quantityAvailable": 2,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        }
-      ],
-      "totalPrice": 542,
-      "cardInfo": {
-        "typeCardCheckout": "Card",
-        "Name": "MasterCard",
-        "number": 5576632224422445,
-        "expiryDate": "08/97",
-        "cvv": "778"
-      }
-    },
-    {
-      "id": "8b94",
-      "userId": "1726466779769",
-      "products": [
-        {
-          "id": "14",
-          "oldPrice": 450,
-          "newPrice": 358,
-          "description": "This unique coffee table combines functionality with an artistic design, making it a conversation starter in your living room. Its sturdy build ensures it can withstand daily use while looking stylish.",
-          "title": "Artistic Wooden Coffee Table",
-          "image": "assets/products/p-14.jpg",
-          "roles": "Best",
-          "quantityAvailable": 18,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "13",
-          "oldPrice": 253,
-          "newPrice": 184,
-          "description": "Elevate your home decor with this stylish coffee table. Its elegant lines and durable construction ensure it is not only a beautiful piece but also built to last, making it an essential furniture item for your living room.",
-          "title": "Stylish Wooden Coffee Table",
-          "image": "assets/products/p-13.jpg",
-          "roles": "Best",
-          "quantityAvailable": 2,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "9",
-          "oldPrice": 90,
-          "newPrice": 45,
-          "description": "This charming wooden coffee table features a classic design that enhances any room. Its spacious top is perfect for coffee cups, books, or decorative items, while the sturdy base ensures stability for daily use.",
-          "title": "Charming Wooden Coffee Table",
-          "image": "assets/products/p-9.jpg",
-          "roles": "Model",
-          "quantityAvailable": 24,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        }
-      ],
-      "totalPrice": 587,
-      "cardInfo": {
-        "typeCardCheckout": "Deleviry",
-        "fullName": "omareprahim",
-        "address": "cairo",
-        "city": "Beni suef",
-        "postalCode": "22522",
-        "phoneNumber": "01500585420"
-      }
-    },
-    {
-      "id": "752a",
-      "userId": "1726466779769",
-      "products": [
-        {
-          "id": "13",
-          "oldPrice": 253,
-          "newPrice": 184,
-          "description": "Elevate your home decor with this stylish coffee table. Its elegant lines and durable construction ensure it is not only a beautiful piece but also built to last, making it an essential furniture item for your living room.",
-          "title": "Stylish Wooden Coffee Table",
-          "image": "assets/products/p-13.jpg",
-          "roles": "Best",
-          "quantityAvailable": 2,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "9",
-          "oldPrice": 90,
-          "newPrice": 45,
-          "description": "This charming wooden coffee table features a classic design that enhances any room. Its spacious top is perfect for coffee cups, books, or decorative items, while the sturdy base ensures stability for daily use.",
-          "title": "Charming Wooden Coffee Table",
-          "image": "assets/products/p-9.jpg",
-          "roles": "Model",
-          "quantityAvailable": 24,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        },
-        {
-          "id": "2",
-          "oldPrice": 150,
-          "newPrice": 110,
-          "description": "Crafted with precision, this stylish wooden dining table serves as the centerpiece for your dining experience. Its sleek design, combined with sturdy construction, makes it perfect for family meals and entertaining guests. The rich finish enhances any dining area.",
-          "title": "Stylish Wooden Dining Table",
-          "image": "assets/products/p-2.jpg",
-          "roles": "Designer",
-          "quantityAvailable": 12,
-          "userId": "1726466779769",
-          "IsDeletedItem": "false",
-          "quantity": 1
-        }
-      ],
-      "totalPrice": 339,
-      "cardInfo": {
-        "typeCardCheckout": "Card",
-        "Name": "mastercard",
-        "number": 5555333221314112,
-        "expiryDate": "09/65",
-        "cvv": "853"
-      }
-    }
-  ]
+  "Orders": []
 }
