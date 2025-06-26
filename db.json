@@ -201,7 +201,8 @@
       "phoneNumber": "01200585420",
       "email": "mohammed.emad@gmail.com",
       "password": "01200585420",
-      "repassword": "01200585420"
+      "repassword": "01200585420",
+      "Gender":"Male"
     },
     {
       "id": "1",
@@ -210,7 +211,8 @@
       "phoneNumber": "01200585420",
       "email": "Ahmed.Ramadan@gmail.com",
       "password": "01200585420",
-      "repassword": "01200585420"
+      "repassword": "01200585420",
+       "Gender":"Male"
     },
     {
       "id": "1726466779769",
@@ -219,7 +221,8 @@
       "phoneNumber": "01200346424",
       "email": "elking@gmail.com",
       "password": "01200346424",
-      "repassword": "01200346424"
+      "repassword": "01200346424",
+       "Gender":"Male"
     },
     {
       "id": "1726467507405",
@@ -228,7 +231,8 @@
       "phoneNumber": "01200342524",
       "email": "elord@gmail.com",
       "password": "01200342524",
-      "repassword": "01200342524"
+      "repassword": "01200342524",
+       "Gender":"Male"
     }
   ],
   "Orders": []
